@@ -1,0 +1,17 @@
+img{
+    float: left;
+    height: 300px;
+    width: 300px;
+    /*border-radius: 10px 5px 20px 3px;*/
+    border-width: 10px;
+    border-top-style: dashed;
+    border-top-color: blue;
+    border-right-style: solid;
+    border-right-color: green;
+    border-bottom-style: groove;
+    border-bottom-color: orange;
+    border-left-style: dotted;
+    border-left-color: red;
+
+}
+h1{border-bottom-style: inset;}
